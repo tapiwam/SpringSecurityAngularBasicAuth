@@ -2,8 +2,7 @@
 Spring security (basic HTTP auth) with AngularJS
 
 ##Main Libraries
-- Spring Boot 1.2.2.Release
--- Web, Data-JPA, JDBC and Security (Look at pom file)
+- Spring Boot 1.2.2.Release (Web, Data-JPA, JDBC and Security (Look at pom file) )
 - Angular 1.4+
 - Bootstrap 3.1+ (Using webjars)
 - Hibernate 4+
